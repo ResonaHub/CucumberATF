@@ -1,0 +1,120 @@
+2019-07-07 17:01:57,520 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:01:57,592 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:01:58,352 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:02:01,454 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 17:13:28,782 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:13:28,788 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:13:29,313 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:13:32,461 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 17:13:59,834 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:13:59,846 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:14:00,225 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:14:03,436 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 17:15:35,152 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:15:35,159 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:15:35,805 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:15:39,060 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 17:18:49,726 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:18:49,730 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:18:50,153 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:18:53,314 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 17:19:43,836 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 17:19:43,843 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 17:19:44,265 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 17:19:47,389 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 18:40:32,448 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 18:40:32,568 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 18:40:32,396 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 18:40:32,588 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 18:40:32,513 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 18:40:32,615 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 18:40:34,647 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 18:40:35,071 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 18:40:35,199 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 18:40:38,137 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 18:40:38,354 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 18:40:38,857 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 18:42:05,793 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 18:42:05,801 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 18:42:06,373 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 18:42:09,500 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 18:42:58,883 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 18:42:58,891 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 18:42:59,445 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 18:43:02,569 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-07 19:09:28,097 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 19:09:30,104 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 19:13:08,624 [main] INFO utility.Logconfig - Url will be opened
+2019-07-07 19:13:09,772 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-07 19:13:10,111 [main] FATAL utility.Logconfig - User name invalid
+2019-07-07 19:13:10,392 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-07 19:13:13,534 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 13:13:16,763 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 13:13:19,528 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 13:13:20,646 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 13:13:20,879 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 13:13:23,976 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 13:51:34,008 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 13:51:35,359 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 13:51:35,744 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 13:51:35,925 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 13:51:39,054 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 13:59:42,150 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 13:59:43,375 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 13:59:43,758 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 13:59:44,044 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 13:59:47,318 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 14:02:23,453 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 14:02:24,665 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 14:02:25,165 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 14:02:25,592 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 14:02:28,894 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 14:03:56,572 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 14:03:57,739 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 14:03:58,073 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 14:03:58,322 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 14:04:01,499 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 15:15:02,231 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 15:15:03,603 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 15:15:04,410 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 15:15:04,625 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 15:15:07,772 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 15:16:01,522 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 15:16:02,707 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 15:19:25,303 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 15:19:26,602 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 15:19:27,191 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 15:19:27,361 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 15:19:30,455 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 18:34:51,658 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 18:34:53,416 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 18:34:53,950 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 18:34:54,112 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 18:34:57,281 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 18:49:45,690 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 18:49:46,832 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 18:49:47,101 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 18:49:47,311 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 18:49:50,479 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 18:55:48,148 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 18:55:49,302 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 18:55:49,550 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 18:55:49,767 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 18:55:49,933 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-08 19:11:56,079 [main] INFO utility.Logconfig - Url will be opened
+2019-07-08 19:11:57,218 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-08 19:11:57,416 [main] FATAL utility.Logconfig - User name invalid
+2019-07-08 19:11:57,631 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-08 19:11:57,728 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-18 16:19:42,027 [main] INFO utility.Logconfig - Url will be opened
+2019-07-18 16:19:43,652 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-18 17:25:12,601 [main] INFO utility.Logconfig - Url will be opened
+2019-07-18 17:25:13,882 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-18 17:25:14,169 [main] FATAL utility.Logconfig - User name invalid
+2019-07-18 17:25:14,337 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-18 17:25:14,465 [main] ERROR utility.Logconfig - User should on homepage
+2019-07-20 09:13:14,203 [main] INFO utility.Logconfig - Url will be opened
+2019-07-20 09:13:15,676 [main] INFO utility.Logconfig - User Nevigate on browser
+2019-07-20 09:13:16,309 [main] FATAL utility.Logconfig - User name invalid
+2019-07-20 09:13:16,667 [main] ERROR utility.Logconfig - User Should provide correct credential
+2019-07-20 09:13:16,959 [main] ERROR utility.Logconfig - User should on homepage
